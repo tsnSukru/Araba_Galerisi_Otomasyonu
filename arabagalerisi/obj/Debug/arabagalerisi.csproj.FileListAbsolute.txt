@@ -1,0 +1,12 @@
+C:\Users\Şükrü\source\repos\arabagalerisi\arabagalerisi\bin\Debug\arabagalerisi.exe.config
+C:\Users\Şükrü\source\repos\arabagalerisi\arabagalerisi\bin\Debug\arabagalerisi.exe
+C:\Users\Şükrü\source\repos\arabagalerisi\arabagalerisi\bin\Debug\arabagalerisi.pdb
+C:\Users\Şükrü\source\repos\arabagalerisi\arabagalerisi\obj\Debug\arabagalerisi.Form1.resources
+C:\Users\Şükrü\source\repos\arabagalerisi\arabagalerisi\obj\Debug\arabagalerisi.Properties.Resources.resources
+C:\Users\Şükrü\source\repos\arabagalerisi\arabagalerisi\obj\Debug\arabagalerisi.csproj.GenerateResource.cache
+C:\Users\Şükrü\source\repos\arabagalerisi\arabagalerisi\obj\Debug\arabagalerisi.csproj.CoreCompileInputs.cache
+C:\Users\Şükrü\source\repos\arabagalerisi\arabagalerisi\obj\Debug\arabagalerisi.exe
+C:\Users\Şükrü\source\repos\arabagalerisi\arabagalerisi\obj\Debug\arabagalerisi.pdb
+C:\Users\Şükrü\source\repos\arabagalerisi\arabagalerisi\obj\Debug\arabagalerisi.csproj.AssemblyReference.cache
+C:\Users\Şükrü\source\repos\arabagalerisi\arabagalerisi\obj\Debug\arabagalerisi.Form2.resources
+C:\Users\Şükrü\source\repos\arabagalerisi\arabagalerisi\obj\Debug\arabagalerisi.Form3.resources
